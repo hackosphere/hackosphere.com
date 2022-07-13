@@ -1,2 +1,2 @@
 # hackosphere.com
-the beacon of the hackosphere
+the beaCON of the hackosphere
