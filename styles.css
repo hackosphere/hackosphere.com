@@ -1,0 +1,51 @@
+/* brand colors
+-------------------------------------------------- */
+/* forest gold bubble */
+
+.forest{
+    color: #155F44;
+}
+
+.bg-forest{
+    background-color: #155F44;
+}
+
+.gold{
+    color: #D4A24D;
+}
+
+.bg-gold{
+    background-color: #D4A24D;
+}
+
+.bubble{
+    color: #E4FFF6;
+}
+
+.bg-bubble{
+    background-color: #E4FFF6;
+}
+
+
+/* font
+-------------------------------------------------- */
+/* logo and other text */
+
+.logo-font { font-family: Hack, monospace; }
+        
+        body {
+  font-family: 'Biryani', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Biryani', sans-serif;
+}
+p {
+    font-family: 'Biryani', sans-serif;
+}
+
+
+
+
+
+
